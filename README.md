@@ -24,7 +24,6 @@
 
 # *Features*
 
-bash '''
 *CLI-based interface with three traffic modes:*
 
 
@@ -58,15 +57,13 @@ bash '''
 
 
 *Tracks last run time via last_run.txt (deleted on self-destruct)*
-'''
 
 # Requirements
 
 *Python 3*
 
-bash '''
+
 *Dependencies: Install via pip install requests rich cryptography*
-'''
 
 *Compatible with Termux, Pydroid3, or other CLI environments*
 
