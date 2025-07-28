@@ -1,6 +1,6 @@
 # *XeyronoxDDOS (Free Version, v1.0)*
 
-XeyronoxDDOS for educational and basic features only.
+*XeyronoxDDOS for educational and basic features only.*
 
 # Overview
 
@@ -20,12 +20,12 @@ XeyronoxDDOS for educational and basic features only.
 
 
 
-Version Note: This is a free version with basic features only. No upgrades available in the free version. For paid version (v1.2 or higher), contact @xeyronox on Instagram.
+*Version Note: This is a free version with basic features only. No upgrades available in the free version. For paid version (v1.2 or higher), contact @xeyronox on Instagram.*
 
 # Features
 
 
-CLI-based interface with three traffic modes:
+*CLI-based interface with three traffic modes:
 
 
 
@@ -57,7 +57,7 @@ Temporary logging to traffic_sim.log (deleted on self-destruct)
 
 
 
-Tracks last run time via last_run.txt (deleted on self-destruct)
+Tracks last run time via last_run.txt (deleted on self-destruct)*
 
 # Requirements
 
