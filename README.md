@@ -72,7 +72,7 @@
 # *Usage*
 
 
-*Run the script: python xeyronox_ddos_v10.py*
+*Run the script: python XeyronoxDDOS_v1 0.py*
 
 
 
